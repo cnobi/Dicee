@@ -1,7 +1,7 @@
 // Dicee JS created in the OFFICE - April 28, 2022
 
-var randomNumber1 = Math.floor((Math.random() * 6)) + 1;
-var randomNumber2 = Math.floor((Math.random() * 6)) + 1;
+var randomNumber1 = Math.floor(Math.random() * 6) + 1;
+var randomNumber2 = Math.floor(Math.random() * 6) + 1;
 
 
 // pick out random dice image betn dice1.png to dice6. png then place it 
